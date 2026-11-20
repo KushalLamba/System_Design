@@ -1,1 +1,4 @@
 1) we cannot make a object of abstract class
+2) when we use the adaptar design pattern like 
+if in a particular system the caller function
+is fixed so we initiate a adptar that can connect the static calling function to our calling function
